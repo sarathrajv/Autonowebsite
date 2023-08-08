@@ -23,7 +23,7 @@ const MainHeader = () => { //ffc
       </div>
       <div className='nav3'>
         <input className='mainhead2' type="button" value="Sign In" />
-        <input className='mainhead3' type="button" value="Sign Up" />
+        <input className='mainhead2' type="button" value="Sign Up" />
       </div>
 
     </div>
